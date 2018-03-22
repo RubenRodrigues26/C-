@@ -1,0 +1,10 @@
+/Users/marinatalaya/Projects/AsyncCoinColsole/bin/Debug/netcoreapp2.0/AsyncCoinColsole.deps.json
+/Users/marinatalaya/Projects/AsyncCoinColsole/bin/Debug/netcoreapp2.0/AsyncCoinColsole.runtimeconfig.json
+/Users/marinatalaya/Projects/AsyncCoinColsole/bin/Debug/netcoreapp2.0/AsyncCoinColsole.runtimeconfig.dev.json
+/Users/marinatalaya/Projects/AsyncCoinColsole/bin/Debug/netcoreapp2.0/AsyncCoinColsole.dll
+/Users/marinatalaya/Projects/AsyncCoinColsole/bin/Debug/netcoreapp2.0/AsyncCoinColsole.pdb
+/Users/marinatalaya/Projects/AsyncCoinColsole/obj/Debug/netcoreapp2.0/AsyncCoinColsole.csproj.CoreCompileInputs.cache
+/Users/marinatalaya/Projects/AsyncCoinColsole/obj/Debug/netcoreapp2.0/AsyncCoinColsole.AssemblyInfoInputs.cache
+/Users/marinatalaya/Projects/AsyncCoinColsole/obj/Debug/netcoreapp2.0/AsyncCoinColsole.AssemblyInfo.cs
+/Users/marinatalaya/Projects/AsyncCoinColsole/obj/Debug/netcoreapp2.0/AsyncCoinColsole.dll
+/Users/marinatalaya/Projects/AsyncCoinColsole/obj/Debug/netcoreapp2.0/AsyncCoinColsole.pdb

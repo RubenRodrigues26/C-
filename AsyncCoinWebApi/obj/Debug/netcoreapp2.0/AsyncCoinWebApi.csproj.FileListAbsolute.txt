@@ -1,0 +1,10 @@
+/Users/marinatalaya/Projects/AsyncCoinWebApi/bin/Debug/netcoreapp2.0/AsyncCoinWebApi.deps.json
+/Users/marinatalaya/Projects/AsyncCoinWebApi/bin/Debug/netcoreapp2.0/AsyncCoinWebApi.runtimeconfig.json
+/Users/marinatalaya/Projects/AsyncCoinWebApi/bin/Debug/netcoreapp2.0/AsyncCoinWebApi.runtimeconfig.dev.json
+/Users/marinatalaya/Projects/AsyncCoinWebApi/bin/Debug/netcoreapp2.0/AsyncCoinWebApi.dll
+/Users/marinatalaya/Projects/AsyncCoinWebApi/bin/Debug/netcoreapp2.0/AsyncCoinWebApi.pdb
+/Users/marinatalaya/Projects/AsyncCoinWebApi/obj/Debug/netcoreapp2.0/AsyncCoinWebApi.csproj.CoreCompileInputs.cache
+/Users/marinatalaya/Projects/AsyncCoinWebApi/obj/Debug/netcoreapp2.0/AsyncCoinWebApi.AssemblyInfoInputs.cache
+/Users/marinatalaya/Projects/AsyncCoinWebApi/obj/Debug/netcoreapp2.0/AsyncCoinWebApi.AssemblyInfo.cs
+/Users/marinatalaya/Projects/AsyncCoinWebApi/obj/Debug/netcoreapp2.0/AsyncCoinWebApi.dll
+/Users/marinatalaya/Projects/AsyncCoinWebApi/obj/Debug/netcoreapp2.0/AsyncCoinWebApi.pdb

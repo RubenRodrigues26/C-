@@ -1,0 +1,8 @@
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypeLibrary/bin/Debug/netstandard2.0/AsyncReturnTypeLibrary.deps.json
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypeLibrary/bin/Debug/netstandard2.0/AsyncReturnTypeLibrary.dll
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypeLibrary/bin/Debug/netstandard2.0/AsyncReturnTypeLibrary.pdb
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypeLibrary/obj/Debug/netstandard2.0/AsyncReturnTypeLibrary.csproj.CoreCompileInputs.cache
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypeLibrary/obj/Debug/netstandard2.0/AsyncReturnTypeLibrary.AssemblyInfoInputs.cache
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypeLibrary/obj/Debug/netstandard2.0/AsyncReturnTypeLibrary.AssemblyInfo.cs
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypeLibrary/obj/Debug/netstandard2.0/AsyncReturnTypeLibrary.dll
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypeLibrary/obj/Debug/netstandard2.0/AsyncReturnTypeLibrary.pdb

@@ -1,0 +1,10 @@
+/Users/marinatalaya/Projects/TapPatterns/bin/Debug/netcoreapp2.0/TapPatterns.deps.json
+/Users/marinatalaya/Projects/TapPatterns/bin/Debug/netcoreapp2.0/TapPatterns.runtimeconfig.json
+/Users/marinatalaya/Projects/TapPatterns/bin/Debug/netcoreapp2.0/TapPatterns.runtimeconfig.dev.json
+/Users/marinatalaya/Projects/TapPatterns/bin/Debug/netcoreapp2.0/TapPatterns.dll
+/Users/marinatalaya/Projects/TapPatterns/bin/Debug/netcoreapp2.0/TapPatterns.pdb
+/Users/marinatalaya/Projects/TapPatterns/obj/Debug/netcoreapp2.0/TapPatterns.csproj.CoreCompileInputs.cache
+/Users/marinatalaya/Projects/TapPatterns/obj/Debug/netcoreapp2.0/TapPatterns.AssemblyInfoInputs.cache
+/Users/marinatalaya/Projects/TapPatterns/obj/Debug/netcoreapp2.0/TapPatterns.AssemblyInfo.cs
+/Users/marinatalaya/Projects/TapPatterns/obj/Debug/netcoreapp2.0/TapPatterns.dll
+/Users/marinatalaya/Projects/TapPatterns/obj/Debug/netcoreapp2.0/TapPatterns.pdb

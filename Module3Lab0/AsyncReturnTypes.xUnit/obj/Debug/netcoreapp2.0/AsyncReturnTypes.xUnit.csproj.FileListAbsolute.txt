@@ -1,0 +1,16 @@
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.0/AsyncReturnTypes.xUnit.deps.json
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.0/AsyncReturnTypes.xUnit.runtimeconfig.json
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.0/AsyncReturnTypes.xUnit.runtimeconfig.dev.json
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.0/AsyncReturnTypes.xUnit.dll
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.0/AsyncReturnTypes.xUnit.pdb
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.0/AsyncReturnTypeLibrary.dll
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypes.xUnit/bin/Debug/netcoreapp2.0/AsyncReturnTypeLibrary.pdb
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypes.xUnit/obj/Debug/netcoreapp2.0/AsyncReturnTypes.xUnit.csproj.CoreCompileInputs.cache
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypes.xUnit/obj/Debug/netcoreapp2.0/AsyncReturnTypes.xUnit.AssemblyInfoInputs.cache
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypes.xUnit/obj/Debug/netcoreapp2.0/AsyncReturnTypes.xUnit.AssemblyInfo.cs
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypes.xUnit/obj/Debug/netcoreapp2.0/AsyncReturnTypes.xUnit.csproj.CopyComplete
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypes.xUnit/obj/Debug/netcoreapp2.0/AsyncReturnTypes.xUnit.dll
+/Users/marinatalaya/Projects/Module3Lab0/AsyncReturnTypes.xUnit/obj/Debug/netcoreapp2.0/AsyncReturnTypes.xUnit.pdb
